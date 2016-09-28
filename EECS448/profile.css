@@ -1,0 +1,42 @@
+body
+{
+	background-image: url("./Slideshow_Pics/jungle.jpg");
+	
+}
+
+header
+{
+	text-align: center;
+	font-family: cursive;
+	font-size: 30pt;
+	color: white; 
+	text-shadow: 2px 2px #008080
+}
+
+img.profile
+{
+	display: block;
+	margin: auto;
+	width: 200px;
+	height: 200px;
+}
+
+p
+{
+	color: white;
+	font-size: 16pt;
+	text-shadow: 2px 2px #0000FF;
+}
+
+a
+{
+	color: white;
+	font-size: 16pt;
+	text-shadow: 2px 2px #0000FF;
+	text-align: center;
+}
+
+a:hover
+{
+	color: blue;
+}
